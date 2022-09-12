@@ -1,0 +1,1706 @@
+{
+  "id": "https://allmaps.org/dighimapper/manifests/batch1.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00003_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 13076,
+      "height": 6576,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00003_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00003_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00003_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00003_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 13076,
+                "height": 6576,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00003_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00004_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 13292,
+      "height": 6813,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00004_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00004_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00004_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00004_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 13292,
+                "height": 6813,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00004_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00005_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 11860,
+      "height": 8370,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00005_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00005_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00005_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00005_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 11860,
+                "height": 8370,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00005_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00006_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 17734,
+      "height": 8034,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00006_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00006_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00006_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00006_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 17734,
+                "height": 8034,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00006_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00007_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 10711,
+      "height": 6917,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00007_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00007_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00007_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00007_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 10711,
+                "height": 6917,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00007_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 10054,
+      "height": 6289,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 10054,
+                "height": 6289,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0002.tif/canvas",
+      "type": "Canvas",
+      "width": 9960,
+      "height": 6289,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0002.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0002.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0002.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0002.tif",
+                "format": "image/tiff",
+                "width": 9960,
+                "height": 6289,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00008_000_0_0002.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00009_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 6896,
+      "height": 10652,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00009_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00009_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00009_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00009_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 6896,
+                "height": 10652,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00009_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00011_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 11792,
+      "height": 8430,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00011_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00011_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00011_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00011_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 11792,
+                "height": 8430,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00011_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00012_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 9184,
+      "height": 6667,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00012_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00012_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00012_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00012_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 9184,
+                "height": 6667,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00012_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00014_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 18622,
+      "height": 7505,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00014_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00014_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00014_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00014_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 18622,
+                "height": 7505,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00014_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 11240,
+      "height": 14066,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 11240,
+                "height": 14066,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0002.tif/canvas",
+      "type": "Canvas",
+      "width": 10853,
+      "height": 7203,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0002.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0002.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0002.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0002.tif",
+                "format": "image/tiff",
+                "width": 10853,
+                "height": 7203,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00015_000_0_0002.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00017_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 17101,
+      "height": 7676,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00017_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00017_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00017_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00017_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 17101,
+                "height": 7676,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00017_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00018_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 10577,
+      "height": 7217,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00018_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00018_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00018_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00018_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 10577,
+                "height": 7217,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00018_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00019_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 6946,
+      "height": 9124,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00019_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00019_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00019_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00019_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 6946,
+                "height": 9124,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00019_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00020_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 11112,
+      "height": 6098,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00020_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00020_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00020_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00020_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 11112,
+                "height": 6098,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00020_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00021_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 5890,
+      "height": 8318,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00021_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00021_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00021_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00021_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 5890,
+                "height": 8318,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00021_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00022_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 9290,
+      "height": 7793,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00022_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00022_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00022_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00022_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 9290,
+                "height": 7793,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00022_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00023_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 9904,
+      "height": 7668,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00023_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00023_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00023_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00023_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 9904,
+                "height": 7668,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00023_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00024_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 8204,
+      "height": 10122,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00024_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00024_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00024_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00024_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 8204,
+                "height": 10122,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00024_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00833_000_0_0003.tif/canvas",
+      "type": "Canvas",
+      "width": 8688,
+      "height": 7104,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00833_000_0_0003.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00833_000_0_0003.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00833_000_0_0003.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00833_000_0_0003.tif",
+                "format": "image/tiff",
+                "width": 8688,
+                "height": 7104,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00833_000_0_0003.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00027_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 2704,
+      "height": 3808,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00027_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00027_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00027_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00027_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 2704,
+                "height": 3808,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00027_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00838_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 4464,
+      "height": 2828,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00838_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00838_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00838_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00838_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 4464,
+                "height": 2828,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00838_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00839_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 10800,
+      "height": 12816,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00839_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00839_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00839_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00839_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 10800,
+                "height": 12816,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00839_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00841_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 6080,
+      "height": 12632,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00841_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00841_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00841_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00841_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 6080,
+                "height": 12632,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00841_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00029_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 7408,
+      "height": 3620,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00029_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00029_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00029_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00029_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 7408,
+                "height": 3620,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00029_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00030_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 8480,
+      "height": 6330,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00030_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00030_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00030_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00030_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 8480,
+                "height": 6330,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00030_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00842_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 16464,
+      "height": 10984,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00842_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00842_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00842_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00842_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 16464,
+                "height": 10984,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00842_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00844_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 7904,
+      "height": 11910,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00844_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00844_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00844_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00844_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 7904,
+                "height": 11910,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00844_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00845_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 10800,
+      "height": 12348,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00845_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00845_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00845_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00845_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 10800,
+                "height": 12348,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00845_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00846_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 18995,
+      "height": 10276,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00846_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00846_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00846_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00846_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 18995,
+                "height": 10276,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00846_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0005.tif/canvas",
+      "type": "Canvas",
+      "width": 11176,
+      "height": 5768,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0005.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0005.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0005.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0005.tif",
+                "format": "image/tiff",
+                "width": 11176,
+                "height": 5768,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0005.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0006.tif/canvas",
+      "type": "Canvas",
+      "width": 14276,
+      "height": 5873,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0006.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0006.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0006.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0006.tif",
+                "format": "image/tiff",
+                "width": 14276,
+                "height": 5873,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0006.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0007.tif/canvas",
+      "type": "Canvas",
+      "width": 12056,
+      "height": 5904,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0007.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0007.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0007.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0007.tif",
+                "format": "image/tiff",
+                "width": 12056,
+                "height": 5904,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00031_000_0_0007.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00032_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 8440,
+      "height": 10682,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00032_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00032_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00032_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00032_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 8440,
+                "height": 10682,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00032_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00033_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 10136,
+      "height": 6794,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00033_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00033_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00033_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00033_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 10136,
+                "height": 6794,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00033_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00034_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 11450,
+      "height": 13660,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00034_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00034_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00034_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00034_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 11450,
+                "height": 13660,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00034_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00035_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 7663,
+      "height": 9050,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00035_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00035_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00035_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00035_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 7663,
+                "height": 9050,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00035_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00037_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 10273,
+      "height": 7343,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00037_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00037_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00037_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00037_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 10273,
+                "height": 7343,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00037_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00039_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 7632,
+      "height": 5846,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00039_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00039_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00039_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00039_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 7632,
+                "height": 5846,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00039_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00040_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 7776,
+      "height": 5930,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00040_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00040_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00040_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00040_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 7776,
+                "height": 5930,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00040_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00042_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 17780,
+      "height": 8800,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00042_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00042_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00042_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00042_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 17780,
+                "height": 8800,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00042_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00043_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 3088,
+      "height": 4202,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00043_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00043_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00043_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00043_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 3088,
+                "height": 4202,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00043_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00044_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 7757,
+      "height": 20282,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00044_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00044_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00044_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00044_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 7757,
+                "height": 20282,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00044_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00045_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 6443,
+      "height": 19306,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00045_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00045_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00045_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00045_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 6443,
+                "height": 19306,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00045_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00046_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 7469,
+      "height": 20598,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00046_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00046_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00046_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00046_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 7469,
+                "height": 20598,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00046_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00047_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 6596,
+      "height": 13646,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00047_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00047_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00047_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00047_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 6596,
+                "height": 13646,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00047_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00048_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 3552,
+      "height": 8900,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00048_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00048_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00048_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00048_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 3552,
+                "height": 8900,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00048_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00049_000_0_0001.tif/canvas",
+      "type": "Canvas",
+      "width": 10680,
+      "height": 6178,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00049_000_0_0001.tif/annotations",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00049_000_0_0001.tif/annotation",
+              "motivation": "painting",
+              "target": "https://images.dighimapper.eu/iiif/2/510_0713_000_00049_000_0_0001.tif/canvas",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00049_000_0_0001.tif",
+                "format": "image/tiff",
+                "width": 10680,
+                "height": 6178,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00049_000_0_0001.tif",
+                    "profile": "level2",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

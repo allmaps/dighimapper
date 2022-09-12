@@ -1,0 +1,51 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@allmaps/annotation': 1.0.0-beta.3
+  JSONStream: ^1.3.5
+  highland: ^2.13.5
+
+dependencies:
+  '@allmaps/annotation': 1.0.0-beta.3
+  JSONStream: 1.3.5
+  highland: 2.13.5
+
+packages:
+
+  /@allmaps/annotation/1.0.0-beta.3:
+    resolution: {integrity: sha512-KsPkyVsI4k2Bjq6b5N8/UqE5+eeIOGtwJXAuFS9U51z6oHdgvC3MtszOXqOoHMZswxlyD5JRum1+i2+sE5aQrQ==}
+    engines: {node: ^14.13.1 || >=16.0.0}
+    dependencies:
+      zod: 3.19.0
+    dev: false
+
+  /JSONStream/1.3.5:
+    resolution: {integrity: sha512-E+iruNOY8VV9s4JEbe1aNEm6MiszPRr/UfcHMz0TQh1BXSxHK+ASV1R6W4HpjBhSeS+54PIsAMCBmwD06LLsqQ==}
+    hasBin: true
+    dependencies:
+      jsonparse: 1.3.1
+      through: 2.3.8
+    dev: false
+
+  /highland/2.13.5:
+    resolution: {integrity: sha512-dn2flPapIIAa4BtkB2ahjshg8iSJtrJtdhEb9/oiOrS5HMQTR/GuhFpqJ+11YBdtnl3AwWKvbZd1Uxr8uAmA7A==}
+    dependencies:
+      util-deprecate: 1.0.2
+    dev: false
+
+  /jsonparse/1.3.1:
+    resolution: {integrity: sha512-POQXvpdL69+CluYsillJ7SUhKvytYjW9vG/GKpnf+xP8UWgYEM/RaMzHHofbALDiKbbP1W8UEYmgGl39WkPZsg==}
+    engines: {'0': node >= 0.2.0}
+    dev: false
+
+  /through/2.3.8:
+    resolution: {integrity: sha512-w89qg7PI8wAdvX60bMDP+bFoD5Dvhm9oLheFp5O4a2QF0cSBGsBX4qZmadPMvVqlLJBBci+WqGGOAPvcDeNSVg==}
+    dev: false
+
+  /util-deprecate/1.0.2:
+    resolution: {integrity: sha512-EPD5q1uXyFxJpCrLnCc1nHnq3gOa6DZBocAIiI2TaSCA7VCJ1UJDMagCzIkXNsUYfD1daK//LTEQ8xiIbrHtcw==}
+    dev: false
+
+  /zod/3.19.0:
+    resolution: {integrity: sha512-Yw0qvUsCNGBe5YacikdMt5gVYeUuaEFVDIHKMfElrGSaBhwR3CQK6vOzgfAJOjTdGIhEeoaj8GtT+NDZrepZbw==}
+    dev: false
