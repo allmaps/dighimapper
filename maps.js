@@ -61,7 +61,6 @@ async function createMap(feature) {
 }
 
 H(features)
-  .filter((feature) => feature.properties.batch === 1)
   .filter((feature) => feature.geometry)
   .flatMap((feature) => H(createMap(feature)))
   .compact()
