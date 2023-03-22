@@ -2,12 +2,12 @@
 
 Create [`maps.ndjson`](data/maps.ndjson):
 
-    node maps.js
+    ./maps.js > ./data/maps.ndjson
 
 Download all `info.json` files, per batch:
 
-    node batches.js
+    ./batches.js
 
 Create manifest from single batch
 
-    cat batches/1/*.json | node ../../allmaps/allmaps/apps/cli/dist/index.js iiif --format manifest > manifests/batch1.json
+    cat batches/2/*.json | node ../../allmaps/allmaps/apps/cli/dist/index.js iiif manifest --id https://allmaps.org/dighimapper/manifests/batch2.json > manifests/batch2.json

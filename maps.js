@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import fs from 'fs'
 import JSONStream from 'JSONStream'
 import H from 'highland'
@@ -8,14 +10,16 @@ const features = fs
 
 async function createMap(feature) {
   const id = feature.properties.identifier
+  const batch = feature.properties.batch
   const imageUri = `https://images.dighimapper.eu/iiif/2/${id}.tif`
   const imageInfoUrl = `${imageUri}/info.json`
 
   let imageInfo
   try {
+    console.error(`Downloading for batch ${batch}:`, imageInfoUrl)
     imageInfo = await fetch(imageInfoUrl).then((response) => response.json())
   } catch (err) {
-    console.error('Error fetching', imageInfoUrl)
+    console.error(`Error fetching for batch ${batch}:`, imageInfoUrl)
     return
   }
 

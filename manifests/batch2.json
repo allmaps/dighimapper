@@ -1,0 +1,3307 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://allmaps.org/dighimapper/manifests/batch2.json",
+  "type": "Manifest",
+  "items": [
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/0",
+      "type": "Canvas",
+      "width": 7833,
+      "height": 7687,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/0/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/0/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/0",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00050_000_0_0001.tif",
+                "width": 7833,
+                "height": 7687,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00050_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/1",
+      "type": "Canvas",
+      "width": 10357,
+      "height": 4997,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/1/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/1/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/1",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00051_000_0_0001.tif",
+                "width": 10357,
+                "height": 4997,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00051_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/2",
+      "type": "Canvas",
+      "width": 4751,
+      "height": 16145,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/2/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/2/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/2",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00052_000_0_0001.tif",
+                "width": 4751,
+                "height": 16145,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00052_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/3",
+      "type": "Canvas",
+      "width": 5364,
+      "height": 17783,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/3/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/3/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/3",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00053_000_0_0001.tif",
+                "width": 5364,
+                "height": 17783,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00053_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/4",
+      "type": "Canvas",
+      "width": 5455,
+      "height": 19632,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/4/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/4/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/4",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00054_000_0_0001.tif",
+                "width": 5455,
+                "height": 19632,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00054_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/5",
+      "type": "Canvas",
+      "width": 6144,
+      "height": 9338,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/5/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/5/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/5",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00055_000_0_0001.tif",
+                "width": 6144,
+                "height": 9338,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00055_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/6",
+      "type": "Canvas",
+      "width": 5271,
+      "height": 18098,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/6/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/6/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/6",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00056_000_0_0001.tif",
+                "width": 5271,
+                "height": 18098,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00056_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/7",
+      "type": "Canvas",
+      "width": 4686,
+      "height": 18187,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/7/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/7/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/7",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00057_000_0_0001.tif",
+                "width": 4686,
+                "height": 18187,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00057_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/8",
+      "type": "Canvas",
+      "width": 9666,
+      "height": 7582,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/8/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/8/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/8",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00058_000_0_0001.tif",
+                "width": 9666,
+                "height": 7582,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00058_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/9",
+      "type": "Canvas",
+      "width": 5816,
+      "height": 18683,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/9/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/9/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/9",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00059_000_0_0001.tif",
+                "width": 5816,
+                "height": 18683,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00059_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/10",
+      "type": "Canvas",
+      "width": 4940,
+      "height": 9776,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/10/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/10/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/10",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00060_000_0_0001.tif",
+                "width": 4940,
+                "height": 9776,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00060_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/11",
+      "type": "Canvas",
+      "width": 4607,
+      "height": 16565,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/11/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/11/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/11",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00061_000_0_0001.tif",
+                "width": 4607,
+                "height": 16565,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00061_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/12",
+      "type": "Canvas",
+      "width": 5464,
+      "height": 15627,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/12/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/12/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/12",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00062_000_0_0001.tif",
+                "width": 5464,
+                "height": 15627,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00062_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/13",
+      "type": "Canvas",
+      "width": 15159,
+      "height": 11142,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/13/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/13/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/13",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00063_000_0_0001.tif",
+                "width": 15159,
+                "height": 11142,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00063_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/14",
+      "type": "Canvas",
+      "width": 14841,
+      "height": 11966,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/14/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/14/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/14",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00064_000_0_0001.tif",
+                "width": 14841,
+                "height": 11966,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00064_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/15",
+      "type": "Canvas",
+      "width": 7560,
+      "height": 5332,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/15/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/15/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/15",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00066_000_0_0001.tif",
+                "width": 7560,
+                "height": 5332,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00066_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/16",
+      "type": "Canvas",
+      "width": 7243,
+      "height": 19276,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/16/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/16/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/16",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00067_000_0_0001.tif",
+                "width": 7243,
+                "height": 19276,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00067_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/17",
+      "type": "Canvas",
+      "width": 5634,
+      "height": 19254,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/17/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/17/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/17",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00068_000_0_0001.tif",
+                "width": 5634,
+                "height": 19254,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00068_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/18",
+      "type": "Canvas",
+      "width": 5326,
+      "height": 14399,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/18/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/18/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/18",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00069_000_0_0001.tif",
+                "width": 5326,
+                "height": 14399,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00069_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/19",
+      "type": "Canvas",
+      "width": 5562,
+      "height": 18259,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/19/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/19/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/19",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00070_000_0_0001.tif",
+                "width": 5562,
+                "height": 18259,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00070_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/20",
+      "type": "Canvas",
+      "width": 6505,
+      "height": 17825,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/20/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/20/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/20",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00071_000_0_0001.tif",
+                "width": 6505,
+                "height": 17825,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00071_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/21",
+      "type": "Canvas",
+      "width": 9062,
+      "height": 4668,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/21/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/21/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/21",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00072_000_0_0001.tif",
+                "width": 9062,
+                "height": 4668,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00072_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/22",
+      "type": "Canvas",
+      "width": 7272,
+      "height": 5830,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/22/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/22/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/22",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00073_000_0_0001.tif",
+                "width": 7272,
+                "height": 5830,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00073_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/23",
+      "type": "Canvas",
+      "width": 7184,
+      "height": 7708,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/23/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/23/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/23",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00074_000_0_0001.tif",
+                "width": 7184,
+                "height": 7708,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00074_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/24",
+      "type": "Canvas",
+      "width": 5192,
+      "height": 5350,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/24/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/24/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/24",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00075_000_0_0001.tif",
+                "width": 5192,
+                "height": 5350,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00075_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/25",
+      "type": "Canvas",
+      "width": 4136,
+      "height": 5436,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/25/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/25/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/25",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00076_000_0_0001.tif",
+                "width": 4136,
+                "height": 5436,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00076_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/26",
+      "type": "Canvas",
+      "width": 3792,
+      "height": 4246,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/26/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/26/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/26",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00077_000_0_0001.tif",
+                "width": 3792,
+                "height": 4246,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00077_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/27",
+      "type": "Canvas",
+      "width": 3344,
+      "height": 6526,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/27/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/27/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/27",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00078_000_0_0001.tif",
+                "width": 3344,
+                "height": 6526,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00078_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/28",
+      "type": "Canvas",
+      "width": 5704,
+      "height": 7069,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/28/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/28/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/28",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00079_000_0_0001.tif",
+                "width": 5704,
+                "height": 7069,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00079_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/29",
+      "type": "Canvas",
+      "width": 3954,
+      "height": 6344,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/29/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/29/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/29",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00080_000_0_0001.tif",
+                "width": 3954,
+                "height": 6344,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00080_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/30",
+      "type": "Canvas",
+      "width": 4064,
+      "height": 8510,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/30/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/30/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/30",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00081_000_0_0001.tif",
+                "width": 4064,
+                "height": 8510,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00081_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/31",
+      "type": "Canvas",
+      "width": 5216,
+      "height": 8176,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/31/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/31/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/31",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00082_000_0_0001.tif",
+                "width": 5216,
+                "height": 8176,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00082_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/32",
+      "type": "Canvas",
+      "width": 3576,
+      "height": 6516,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/32/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/32/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/32",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00083_000_0_0001.tif",
+                "width": 3576,
+                "height": 6516,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00083_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/33",
+      "type": "Canvas",
+      "width": 4482,
+      "height": 6273,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/33/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/33/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/33",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00084_000_0_0001.tif",
+                "width": 4482,
+                "height": 6273,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00084_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/34",
+      "type": "Canvas",
+      "width": 4335,
+      "height": 6340,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/34/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/34/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/34",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00085_000_0_0001.tif",
+                "width": 4335,
+                "height": 6340,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00085_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/35",
+      "type": "Canvas",
+      "width": 4208,
+      "height": 5694,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/35/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/35/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/35",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00086_000_0_0001.tif",
+                "width": 4208,
+                "height": 5694,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00086_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/36",
+      "type": "Canvas",
+      "width": 6700,
+      "height": 3290,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/36/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/36/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/36",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00087_000_0_0001.tif",
+                "width": 6700,
+                "height": 3290,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00087_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/37",
+      "type": "Canvas",
+      "width": 4224,
+      "height": 4100,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/37/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/37/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/37",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00088_000_0_0001.tif",
+                "width": 4224,
+                "height": 4100,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00088_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/38",
+      "type": "Canvas",
+      "width": 4117,
+      "height": 5314,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/38/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/38/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/38",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00089_000_0_0001.tif",
+                "width": 4117,
+                "height": 5314,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00089_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/39",
+      "type": "Canvas",
+      "width": 4430,
+      "height": 6222,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/39/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/39/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/39",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00090_000_0_0001.tif",
+                "width": 4430,
+                "height": 6222,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00090_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/40",
+      "type": "Canvas",
+      "width": 4048,
+      "height": 4772,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/40/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/40/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/40",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00091_000_0_0001.tif",
+                "width": 4048,
+                "height": 4772,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00091_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/41",
+      "type": "Canvas",
+      "width": 4924,
+      "height": 5464,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/41/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/41/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/41",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00092_000_0_0001.tif",
+                "width": 4924,
+                "height": 5464,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00092_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/42",
+      "type": "Canvas",
+      "width": 4056,
+      "height": 6477,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/42/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/42/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/42",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00093_000_0_0001.tif",
+                "width": 4056,
+                "height": 6477,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00093_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/43",
+      "type": "Canvas",
+      "width": 4210,
+      "height": 6130,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/43/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/43/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/43",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00094_000_0_0001.tif",
+                "width": 4210,
+                "height": 6130,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00094_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/44",
+      "type": "Canvas",
+      "width": 3615,
+      "height": 7439,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/44/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/44/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/44",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00095_000_0_0001.tif",
+                "width": 3615,
+                "height": 7439,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00095_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/45",
+      "type": "Canvas",
+      "width": 3379,
+      "height": 7184,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/45/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/45/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/45",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00096_000_0_0001.tif",
+                "width": 3379,
+                "height": 7184,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00096_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/46",
+      "type": "Canvas",
+      "width": 3519,
+      "height": 7160,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/46/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/46/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/46",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00097_000_0_0001.tif",
+                "width": 3519,
+                "height": 7160,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00097_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/47",
+      "type": "Canvas",
+      "width": 5960,
+      "height": 3604,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/47/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/47/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/47",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00098_000_0_0001.tif",
+                "width": 5960,
+                "height": 3604,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00098_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/48",
+      "type": "Canvas",
+      "width": 3600,
+      "height": 6740,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/48/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/48/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/48",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00099_000_0_0001.tif",
+                "width": 3600,
+                "height": 6740,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00099_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/49",
+      "type": "Canvas",
+      "width": 4273,
+      "height": 3348,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/49/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/49/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/49",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00100_000_0_0001.tif",
+                "width": 4273,
+                "height": 3348,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00100_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/50",
+      "type": "Canvas",
+      "width": 5024,
+      "height": 3266,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/50/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/50/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/50",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00497_000_0_0015.tif",
+                "width": 5024,
+                "height": 3266,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00497_000_0_0015.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/51",
+      "type": "Canvas",
+      "width": 3440,
+      "height": 5006,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/51/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/51/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/51",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00497_000_0_0016.tif",
+                "width": 3440,
+                "height": 5006,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00497_000_0_0016.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/52",
+      "type": "Canvas",
+      "width": 3216,
+      "height": 3506,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/52/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/52/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/52",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0001.tif",
+                "width": 3216,
+                "height": 3506,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/53",
+      "type": "Canvas",
+      "width": 2896,
+      "height": 6548,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/53/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/53/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/53",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0002.tif",
+                "width": 2896,
+                "height": 6548,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0002.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/54",
+      "type": "Canvas",
+      "width": 2304,
+      "height": 10574,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/54/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/54/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/54",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0003.tif",
+                "width": 2304,
+                "height": 10574,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0003.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/55",
+      "type": "Canvas",
+      "width": 4368,
+      "height": 4716,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/55/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/55/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/55",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0004.tif",
+                "width": 4368,
+                "height": 4716,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0004.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/56",
+      "type": "Canvas",
+      "width": 2816,
+      "height": 3898,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/56/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/56/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/56",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0005.tif",
+                "width": 2816,
+                "height": 3898,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0005.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/57",
+      "type": "Canvas",
+      "width": 4064,
+      "height": 4572,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/57/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/57/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/57",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0006.tif",
+                "width": 4064,
+                "height": 4572,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0006.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/58",
+      "type": "Canvas",
+      "width": 4080,
+      "height": 4564,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/58/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/58/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/58",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0007.tif",
+                "width": 4080,
+                "height": 4564,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0007.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/59",
+      "type": "Canvas",
+      "width": 3600,
+      "height": 4406,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/59/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/59/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/59",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0008.tif",
+                "width": 3600,
+                "height": 4406,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0008.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/60",
+      "type": "Canvas",
+      "width": 2368,
+      "height": 4556,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/60/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/60/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/60",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0009.tif",
+                "width": 2368,
+                "height": 4556,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0009.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/61",
+      "type": "Canvas",
+      "width": 3264,
+      "height": 7110,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/61/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/61/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/61",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0010.tif",
+                "width": 3264,
+                "height": 7110,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0010.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/62",
+      "type": "Canvas",
+      "width": 3008,
+      "height": 6322,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/62/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/62/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/62",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0013.tif",
+                "width": 3008,
+                "height": 6322,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00498_000_0_0013.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/63",
+      "type": "Canvas",
+      "width": 2848,
+      "height": 9030,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/63/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/63/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/63",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0002.tif",
+                "width": 2848,
+                "height": 9030,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0002.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/64",
+      "type": "Canvas",
+      "width": 5792,
+      "height": 7894,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/64/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/64/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/64",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0003.tif",
+                "width": 5792,
+                "height": 7894,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0003.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/65",
+      "type": "Canvas",
+      "width": 4544,
+      "height": 7662,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/65/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/65/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/65",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0004.tif",
+                "width": 4544,
+                "height": 7662,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0004.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/66",
+      "type": "Canvas",
+      "width": 4144,
+      "height": 6398,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/66/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/66/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/66",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0005.tif",
+                "width": 4144,
+                "height": 6398,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0005.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/67",
+      "type": "Canvas",
+      "width": 5840,
+      "height": 6976,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/67/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/67/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/67",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0006.tif",
+                "width": 5840,
+                "height": 6976,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0006.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/68",
+      "type": "Canvas",
+      "width": 5152,
+      "height": 5604,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/68/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/68/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/68",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0007.tif",
+                "width": 5152,
+                "height": 5604,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0007.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/69",
+      "type": "Canvas",
+      "width": 4624,
+      "height": 10038,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/69/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/69/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/69",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0008.tif",
+                "width": 4624,
+                "height": 10038,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0008.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/70",
+      "type": "Canvas",
+      "width": 6464,
+      "height": 7886,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/70/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/70/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/70",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0009.tif",
+                "width": 6464,
+                "height": 7886,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00501_000_0_0009.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/71",
+      "type": "Canvas",
+      "width": 4944,
+      "height": 7540,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/71/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/71/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/71",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0001.tif",
+                "width": 4944,
+                "height": 7540,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/72",
+      "type": "Canvas",
+      "width": 3728,
+      "height": 7402,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/72/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/72/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/72",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0002.tif",
+                "width": 3728,
+                "height": 7402,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0002.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/73",
+      "type": "Canvas",
+      "width": 6144,
+      "height": 8710,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/73/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/73/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/73",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0003.tif",
+                "width": 6144,
+                "height": 8710,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0003.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/74",
+      "type": "Canvas",
+      "width": 6544,
+      "height": 4858,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/74/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/74/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/74",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0004.tif",
+                "width": 6544,
+                "height": 4858,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0004.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/75",
+      "type": "Canvas",
+      "width": 4928,
+      "height": 7956,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/75/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/75/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/75",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0005.tif",
+                "width": 4928,
+                "height": 7956,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0005.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/76",
+      "type": "Canvas",
+      "width": 4656,
+      "height": 9998,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/76/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/76/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/76",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0006.tif",
+                "width": 4656,
+                "height": 9998,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0006.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/77",
+      "type": "Canvas",
+      "width": 4672,
+      "height": 8266,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/77/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/77/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/77",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0007.tif",
+                "width": 4672,
+                "height": 8266,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0007.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/78",
+      "type": "Canvas",
+      "width": 5104,
+      "height": 7762,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/78/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/78/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/78",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0008.tif",
+                "width": 5104,
+                "height": 7762,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0008.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/79",
+      "type": "Canvas",
+      "width": 4864,
+      "height": 8182,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/79/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/79/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/79",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0009.tif",
+                "width": 4864,
+                "height": 8182,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0009.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/80",
+      "type": "Canvas",
+      "width": 5408,
+      "height": 10390,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/80/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/80/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/80",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0010.tif",
+                "width": 5408,
+                "height": 10390,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0010.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/81",
+      "type": "Canvas",
+      "width": 5328,
+      "height": 9500,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/81/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/81/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/81",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0011.tif",
+                "width": 5328,
+                "height": 9500,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0011.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/82",
+      "type": "Canvas",
+      "width": 6464,
+      "height": 6086,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/82/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/82/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/82",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0012.tif",
+                "width": 6464,
+                "height": 6086,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0012.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/83",
+      "type": "Canvas",
+      "width": 5056,
+      "height": 8070,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/83/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/83/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/83",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0014.tif",
+                "width": 5056,
+                "height": 8070,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0014.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/84",
+      "type": "Canvas",
+      "width": 5472,
+      "height": 10946,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/84/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/84/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/84",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0015.tif",
+                "width": 5472,
+                "height": 10946,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0015.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/85",
+      "type": "Canvas",
+      "width": 6896,
+      "height": 8052,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/85/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/85/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/85",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0016.tif",
+                "width": 6896,
+                "height": 8052,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0016.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/86",
+      "type": "Canvas",
+      "width": 6128,
+      "height": 8032,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/86/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/86/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/86",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0017.tif",
+                "width": 6128,
+                "height": 8032,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0017.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/87",
+      "type": "Canvas",
+      "width": 5776,
+      "height": 9054,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/87/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/87/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/87",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0018.tif",
+                "width": 5776,
+                "height": 9054,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0018.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/88",
+      "type": "Canvas",
+      "width": 4288,
+      "height": 9170,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/88/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/88/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/88",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0019.tif",
+                "width": 4288,
+                "height": 9170,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0019.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/89",
+      "type": "Canvas",
+      "width": 3760,
+      "height": 8452,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/89/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/89/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/89",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0020.tif",
+                "width": 3760,
+                "height": 8452,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0020.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/90",
+      "type": "Canvas",
+      "width": 4112,
+      "height": 9508,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/90/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/90/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/90",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0021.tif",
+                "width": 4112,
+                "height": 9508,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00502_000_0_0021.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/91",
+      "type": "Canvas",
+      "width": 4704,
+      "height": 9012,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/91/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/91/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/91",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0001.tif",
+                "width": 4704,
+                "height": 9012,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0001.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/92",
+      "type": "Canvas",
+      "width": 5232,
+      "height": 9160,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/92/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/92/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/92",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0002.tif",
+                "width": 5232,
+                "height": 9160,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0002.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/93",
+      "type": "Canvas",
+      "width": 4160,
+      "height": 8410,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/93/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/93/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/93",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0003.tif",
+                "width": 4160,
+                "height": 8410,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0003.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/94",
+      "type": "Canvas",
+      "width": 3552,
+      "height": 8132,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/94/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/94/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/94",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0004.tif",
+                "width": 3552,
+                "height": 8132,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0004.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/95",
+      "type": "Canvas",
+      "width": 3360,
+      "height": 5550,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/95/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/95/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/95",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0005.tif",
+                "width": 3360,
+                "height": 5550,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0005.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/96",
+      "type": "Canvas",
+      "width": 4240,
+      "height": 6030,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/96/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/96/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/96",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0006.tif",
+                "width": 4240,
+                "height": 6030,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0006.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/97",
+      "type": "Canvas",
+      "width": 3824,
+      "height": 7578,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/97/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/97/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/97",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0007.tif",
+                "width": 3824,
+                "height": 7578,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0007.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/98",
+      "type": "Canvas",
+      "width": 3904,
+      "height": 6536,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/98/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/98/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/98",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0008.tif",
+                "width": 3904,
+                "height": 6536,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0008.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/99",
+      "type": "Canvas",
+      "width": 3776,
+      "height": 10038,
+      "items": [
+        {
+          "type": "AnnotationPage",
+          "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/99/annotation-page",
+          "items": [
+            {
+              "type": "Annotation",
+              "id": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/99/annotation",
+              "motivation": "painting",
+              "target": "https://allmaps.org/dighimapper/manifests/batch2.json/canvases/99",
+              "body": {
+                "type": "Image",
+                "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0009.tif",
+                "width": 3776,
+                "height": 10038,
+                "service": [
+                  {
+                    "id": "https://images.dighimapper.eu/iiif/2/510_0713_000_00503_000_0_0009.tif",
+                    "profile": "level1",
+                    "type": "ImageService2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

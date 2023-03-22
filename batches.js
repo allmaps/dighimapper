@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import fs from 'fs'
 import url from 'url'
 import path from 'path'
@@ -18,9 +20,10 @@ async function downloadImageInfo(feature) {
 
   let imageInfo
   try {
+    console.error(`Downloading for batch ${batch}:`, imageInfoUrl)
     imageInfo = await fetch(imageInfoUrl).then((response) => response.json())
   } catch (err) {
-    console.error('Error fetching', imageInfoUrl)
+    console.error(`Error fetching for batch ${batch}:`, imageInfoUrl)
     return
   }
 
@@ -32,7 +35,6 @@ async function downloadImageInfo(feature) {
 }
 
 H(features)
-  .filter((feature) => feature.properties.batch === 1)
   .flatMap((feature) => H(downloadImageInfo(feature)))
   .done(() => {
     console.log('Done...')
